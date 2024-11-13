@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0421#\\02_\u041C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 C# Essential\\Les1_Folder\\Lesson1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78AC2E46-6642-4AFC-B11F-AB84ED33CD87}|task_6\\task_6.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0441#\\02_\u043C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 c# essential\\les1_folder\\lesson1\\task_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78AC2E46-6642-4AFC-B11F-AB84ED33CD87}|task_6\\task_6.csproj|solutionrelative:task_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D418F072-79FE-483E-A634-46F235843A8A}|task_4\\task_4.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0441#\\02_\u043C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 c# essential\\les1_folder\\lesson1\\task_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D418F072-79FE-483E-A634-46F235843A8A}|task_4\\task_4.csproj|solutionrelative:task_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9765E9-676F-43CF-92D0-C2882107CA0E}|task_3\\task_3.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0441#\\02_\u043C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 c# essential\\les1_folder\\lesson1\\task_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9765E9-676F-43CF-92D0-C2882107CA0E}|task_3\\task_3.csproj|solutionrelative:task_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4F2F36-2573-4547-B6FC-9266325307EC}|task_2\\task_2.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0441#\\02_\u043C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 c# essential\\les1_folder\\lesson1\\task_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4F2F36-2573-4547-B6FC-9266325307EC}|task_2\\task_2.csproj|solutionrelative:task_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4F2F36-2573-4547-B6FC-9266325307EC}|task_2\\task_2.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0441#\\02_\u043C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 c# essential\\les1_folder\\lesson1\\task_2\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4F2F36-2573-4547-B6FC-9266325307EC}|task_2\\task_2.csproj|solutionrelative:task_2\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9765E9-676F-43CF-92D0-C2882107CA0E}|task_3\\task_3.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0441#\\02_\u043C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 c# essential\\les1_folder\\lesson1\\task_3\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9765E9-676F-43CF-92D0-C2882107CA0E}|task_3\\task_3.csproj|solutionrelative:task_3\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9765E9-676F-43CF-92D0-C2882107CA0E}|task_3\\task_3.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0441#\\02_\u043C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 c# essential\\les1_folder\\lesson1\\task_3\\content.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9765E9-676F-43CF-92D0-C2882107CA0E}|task_3\\task_3.csproj|solutionrelative:task_3\\content.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9765E9-676F-43CF-92D0-C2882107CA0E}|task_3\\task_3.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0441#\\02_\u043C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 c# essential\\les1_folder\\lesson1\\task_3\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9765E9-676F-43CF-92D0-C2882107CA0E}|task_3\\task_3.csproj|solutionrelative:task_3\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9765E9-676F-43CF-92D0-C2882107CA0E}|task_3\\task_3.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0441#\\02_\u043C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 c# essential\\les1_folder\\lesson1\\task_3\\title.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9765E9-676F-43CF-92D0-C2882107CA0E}|task_3\\task_3.csproj|solutionrelative:task_3\\title.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9765E9-676F-43CF-92D0-C2882107CA0E}|task_3\\task_3.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0441#\\02_\u043C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 c# essential\\les1_folder\\lesson1\\task_3\\task_3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7A9765E9-676F-43CF-92D0-C2882107CA0E}|task_3\\task_3.csproj|solutionrelative:task_3\\task_3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0421#\\02_\u041C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 C# Essential\\Les1_Folder\\Lesson1\\task_4\\Program.cs",
+              "RelativeDocumentMoniker": "task_4\\Program.cs",
+              "ToolTip": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0421#\\02_\u041C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 C# Essential\\Les1_Folder\\Lesson1\\task_4\\Program.cs",
+              "RelativeToolTip": "task_4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:09:13.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0421#\\02_\u041C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 C# Essential\\Les1_Folder\\Lesson1\\task_6\\Program.cs",
+              "RelativeDocumentMoniker": "task_6\\Program.cs",
+              "ToolTip": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0421#\\02_\u041C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 C# Essential\\Les1_Folder\\Lesson1\\task_6\\Program.cs",
+              "RelativeToolTip": "task_6\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T07:43:39.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0421#\\02_\u041C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 C# Essential\\Les1_Folder\\Lesson1\\task_3\\Author.cs",
+              "RelativeDocumentMoniker": "task_3\\Author.cs",
+              "ToolTip": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0421#\\02_\u041C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 C# Essential\\Les1_Folder\\Lesson1\\task_3\\Author.cs",
+              "RelativeToolTip": "task_3\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T07:37:45.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Content.cs",
+              "DocumentMoniker": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0421#\\02_\u041C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 C# Essential\\Les1_Folder\\Lesson1\\task_3\\Content.cs",
+              "RelativeDocumentMoniker": "task_3\\Content.cs",
+              "ToolTip": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0421#\\02_\u041C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 C# Essential\\Les1_Folder\\Lesson1\\task_3\\Content.cs",
+              "RelativeToolTip": "task_3\\Content.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T07:37:35.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Title.cs",
+              "DocumentMoniker": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0421#\\02_\u041C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 C# Essential\\Les1_Folder\\Lesson1\\task_3\\Title.cs",
+              "RelativeDocumentMoniker": "task_3\\Title.cs",
+              "ToolTip": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0421#\\02_\u041C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 C# Essential\\Les1_Folder\\Lesson1\\task_3\\Title.cs",
+              "RelativeToolTip": "task_3\\Title.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T07:34:05.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0421#\\02_\u041C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 C# Essential\\Les1_Folder\\Lesson1\\task_3\\Program.cs",
+              "RelativeDocumentMoniker": "task_3\\Program.cs",
+              "ToolTip": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0421#\\02_\u041C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 C# Essential\\Les1_Folder\\Lesson1\\task_3\\Program.cs",
+              "RelativeToolTip": "task_3\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T07:26:01.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0421#\\02_\u041C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 C# Essential\\Les1_Folder\\Lesson1\\task_2\\Program.cs",
+              "RelativeDocumentMoniker": "task_2\\Program.cs",
+              "ToolTip": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0421#\\02_\u041C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 C# Essential\\Les1_Folder\\Lesson1\\task_2\\Program.cs",
+              "RelativeToolTip": "task_2\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T12:18:42.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0421#\\02_\u041C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 C# Essential\\Les1_Folder\\Lesson1\\task_3\\Book.cs",
+              "RelativeDocumentMoniker": "task_3\\Book.cs",
+              "ToolTip": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0421#\\02_\u041C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 C# Essential\\Les1_Folder\\Lesson1\\task_3\\Book.cs",
+              "RelativeToolTip": "task_3\\Book.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T12:11:16.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "task_3.csproj",
+              "DocumentMoniker": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0421#\\02_\u041C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 C# Essential\\Les1_Folder\\Lesson1\\task_3\\task_3.csproj",
+              "RelativeDocumentMoniker": "task_3\\task_3.csproj",
+              "ToolTip": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0421#\\02_\u041C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 C# Essential\\Les1_Folder\\Lesson1\\task_3\\task_3.csproj",
+              "RelativeToolTip": "task_3\\task_3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-08T12:11:11.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0421#\\02_\u041C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 C# Essential\\Les1_Folder\\Lesson1\\task_2\\Rectangle.cs",
+              "RelativeDocumentMoniker": "task_2\\Rectangle.cs",
+              "ToolTip": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0421#\\02_\u041C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 C# Essential\\Les1_Folder\\Lesson1\\task_2\\Rectangle.cs",
+              "RelativeToolTip": "task_2\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:29:56.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
