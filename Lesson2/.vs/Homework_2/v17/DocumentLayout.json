@@ -1,14 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0421#\\02_\u041C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 C# Essential\\Les1_Folder\\Lesson2\\",
+  "WorkspaceRootPath": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0421#\\02_\u041C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 C# Essential\\Homework_CBS\\Lesson2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64EC40B1-DACE-45BA-BFF4-4B4F875A7288}|task_3\\task_3.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0441#\\02_\u043C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 c# essential\\les1_folder\\lesson2\\task_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64EC40B1-DACE-45BA-BFF4-4B4F875A7288}|task_3\\task_3.csproj|solutionrelative:task_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7905DD8-0B97-48DD-BE74-40ECCE35D429}|task_6\\task_6.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0441#\\02_\u043C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 c# essential\\homework_cbs\\lesson2\\task_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7905DD8-0B97-48DD-BE74-40ECCE35D429}|task_6\\task_6.csproj|solutionrelative:task_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B2759BE-19D5-4244-9A09-BF7E7B2C80A9}|task_2\\task_2.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0441#\\02_\u043C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 c# essential\\les1_folder\\lesson2\\task_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{36AD4256-6D3F-4EDC-8716-A564C3E193FA}|task_4\\task_4.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0441#\\02_\u043C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 c# essential\\homework_cbs\\lesson2\\task_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36AD4256-6D3F-4EDC-8716-A564C3E193FA}|task_4\\task_4.csproj|solutionrelative:task_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2759BE-19D5-4244-9A09-BF7E7B2C80A9}|task_2\\task_2.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0441#\\02_\u043C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 c# essential\\homework_cbs\\lesson2\\task_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B2759BE-19D5-4244-9A09-BF7E7B2C80A9}|task_2\\task_2.csproj|solutionrelative:task_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64EC40B1-DACE-45BA-BFF4-4B4F875A7288}|task_3\\task_3.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0441#\\02_\u043C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 c# essential\\homework_cbs\\lesson2\\task_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64EC40B1-DACE-45BA-BFF4-4B4F875A7288}|task_3\\task_3.csproj|solutionrelative:task_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +26,61 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0421#\\02_\u041C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 C# Essential\\Les1_Folder\\Lesson2\\task_3\\Program.cs",
-              "RelativeDocumentMoniker": "task_3\\Program.cs",
-              "ToolTip": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0421#\\02_\u041C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 C# Essential\\Les1_Folder\\Lesson2\\task_3\\Program.cs",
-              "RelativeToolTip": "task_3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0421#\\02_\u041C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 C# Essential\\Homework_CBS\\Lesson2\\task_6\\Program.cs",
+              "RelativeDocumentMoniker": "task_6\\Program.cs",
+              "ToolTip": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0421#\\02_\u041C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 C# Essential\\Homework_CBS\\Lesson2\\task_6\\Program.cs",
+              "RelativeToolTip": "task_6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T10:38:40.682Z",
+              "WhenOpened": "2024-11-13T14:26:21.815Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0421#\\02_\u041C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 C# Essential\\Les1_Folder\\Lesson2\\task_2\\Program.cs",
-              "RelativeDocumentMoniker": "task_2\\Program.cs",
-              "ToolTip": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0421#\\02_\u041C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 C# Essential\\Les1_Folder\\Lesson2\\task_2\\Program.cs",
-              "RelativeToolTip": "task_2\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0421#\\02_\u041C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 C# Essential\\Homework_CBS\\Lesson2\\task_4\\Program.cs",
+              "RelativeDocumentMoniker": "task_4\\Program.cs",
+              "ToolTip": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0421#\\02_\u041C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 C# Essential\\Homework_CBS\\Lesson2\\task_4\\Program.cs",
+              "RelativeToolTip": "task_4\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T10:38:15.561Z",
+              "WhenOpened": "2024-11-13T14:26:12.754Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0421#\\02_\u041C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 C# Essential\\Homework_CBS\\Lesson2\\task_3\\Program.cs",
+              "RelativeDocumentMoniker": "task_3\\Program.cs",
+              "ToolTip": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0421#\\02_\u041C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 C# Essential\\Homework_CBS\\Lesson2\\task_3\\Program.cs",
+              "RelativeToolTip": "task_3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T10:38:40.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0421#\\02_\u041C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 C# Essential\\Homework_CBS\\Lesson2\\task_2\\Program.cs",
+              "RelativeDocumentMoniker": "task_2\\Program.cs",
+              "ToolTip": "D:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u0421#\\02_\u041C\u0430\u0442\u0435\u0440\u0456\u0430\u043B\u0438 \u043A\u0443\u0440\u0441\u0443 C# Essential\\Homework_CBS\\Lesson2\\task_2\\Program.cs",
+              "RelativeToolTip": "task_2\\Program.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwEkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T10:38:15.561Z"
             }
           ]
         }
