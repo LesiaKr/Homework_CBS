@@ -1,0 +1,15 @@
+D:\навчання С#\02_Матеріали курсу C# Essential\Homework_CBS\Lesson8\task_2\bin\Debug\net8.0\task_2.exe
+D:\навчання С#\02_Матеріали курсу C# Essential\Homework_CBS\Lesson8\task_2\bin\Debug\net8.0\task_2.deps.json
+D:\навчання С#\02_Матеріали курсу C# Essential\Homework_CBS\Lesson8\task_2\bin\Debug\net8.0\task_2.runtimeconfig.json
+D:\навчання С#\02_Матеріали курсу C# Essential\Homework_CBS\Lesson8\task_2\bin\Debug\net8.0\task_2.dll
+D:\навчання С#\02_Матеріали курсу C# Essential\Homework_CBS\Lesson8\task_2\bin\Debug\net8.0\task_2.pdb
+D:\навчання С#\02_Матеріали курсу C# Essential\Homework_CBS\Lesson8\task_2\obj\Debug\net8.0\task_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\навчання С#\02_Матеріали курсу C# Essential\Homework_CBS\Lesson8\task_2\obj\Debug\net8.0\task_2.AssemblyInfoInputs.cache
+D:\навчання С#\02_Матеріали курсу C# Essential\Homework_CBS\Lesson8\task_2\obj\Debug\net8.0\task_2.AssemblyInfo.cs
+D:\навчання С#\02_Матеріали курсу C# Essential\Homework_CBS\Lesson8\task_2\obj\Debug\net8.0\task_2.csproj.CoreCompileInputs.cache
+D:\навчання С#\02_Матеріали курсу C# Essential\Homework_CBS\Lesson8\task_2\obj\Debug\net8.0\task_2.sourcelink.json
+D:\навчання С#\02_Матеріали курсу C# Essential\Homework_CBS\Lesson8\task_2\obj\Debug\net8.0\task_2.dll
+D:\навчання С#\02_Матеріали курсу C# Essential\Homework_CBS\Lesson8\task_2\obj\Debug\net8.0\refint\task_2.dll
+D:\навчання С#\02_Матеріали курсу C# Essential\Homework_CBS\Lesson8\task_2\obj\Debug\net8.0\task_2.pdb
+D:\навчання С#\02_Матеріали курсу C# Essential\Homework_CBS\Lesson8\task_2\obj\Debug\net8.0\task_2.genruntimeconfig.cache
+D:\навчання С#\02_Матеріали курсу C# Essential\Homework_CBS\Lesson8\task_2\obj\Debug\net8.0\ref\task_2.dll
